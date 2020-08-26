@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: kevinteos
+Build-Jdk: 14.0.2
+Implementation-Title: tenmo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.techelevator
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/m3-capstone-s
+ erver
+Created-By: Maven Integration for Eclipse
+
